@@ -1,2 +1,2 @@
-# Sites-responsiveis-
-Sites diversos desenvolvidos com HTML, CSS e JS
+#  Netflix-interface 
+Clone da Netflix com html e css, exercico do bootcamp da DIO
